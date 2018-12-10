@@ -139,6 +139,7 @@ body {
     background: linear-gradient(top, #f3aaaa 0%, #febf04 100%); /* W3C */
     display: flex;
     justify-content: center;
+    font-size:13px;
 }
 
 /***********************************************************************
